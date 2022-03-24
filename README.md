@@ -2,9 +2,9 @@
 
 - 💼 Desenvolvedora Front-End 
 
-- 📈 
+<!-- 📈-->
 
-- ❤️ 
+<!-- ❤️-->
 
 - 💬 Meu [Linkedin](https://www.linkedin.com/in/rosanagiglio/) 
 
@@ -14,12 +14,3 @@
 
 | <a href="https://github.com/GiglioRosana/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GiglioRosana&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rosana github stats" /></a> | <a href="https://github.com/GiglioRosana/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiglioRosana&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-
-<a href="https://github.com/GiglioRosana/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiglioRosana&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/GiglioRosana/GiglioRosana.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiglioRosana&repo=GiglioRosana.github.io&theme=buefy" />
-</a>
-
