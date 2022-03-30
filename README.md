@@ -21,7 +21,9 @@ Desenvolvedora Front-End
 
 ## 💡 Sites de Estudo e Pesquisa
 
-- [Hackerrank](https://www.hackerrank.com/)
-- [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
-- [LeetCode](https://leetcode.com/)
-- [CodeWars](https://www.codewars.com/)
+- [w3schools](https://www.w3schools.com/html/default.asp)
+- [Developer](https://developer.mozilla.org/pt-BR/docs/Learn/Forms)
+- [Codepen](https://codepen.io/gigliorosana/)
+- [ExplainShell](https://explainshell.com/)
+- [Favicon].(https://genfavicon.com/pt)
+- [Unicode].https://unicode-table.com/en/)
